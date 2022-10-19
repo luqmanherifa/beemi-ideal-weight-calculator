@@ -1,1 +1,1 @@
-# Weight Calculator: Kalkulator Berat Badan Ideal
+# Ideal Weight Calculator
